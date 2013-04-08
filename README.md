@@ -7,3 +7,4 @@ WSJ English data set of upos repository
 - enw.tok.gz  Test file consists of 49208 sentences 1173766
 - enw.tok.gz  Gold tags
 
+Total Size: 497M
