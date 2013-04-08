@@ -1,4 +1,4 @@
-upos-en-data
+upos-enw-data
 ============
 
 WSJ English data set of upos repository
